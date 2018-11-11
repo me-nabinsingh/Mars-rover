@@ -2,7 +2,7 @@
 
 Node.js solution to land Robotic rovers over Mars
 
-###Install node dependency
+### Install node dependency
 ```
 npm install
 ```
