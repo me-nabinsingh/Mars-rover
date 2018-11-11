@@ -1,0 +1,23 @@
+{
+  "name": "Mars-rover",
+  "version": "1.0.0",
+  "description": "Node.js solution to land Robotic rovers over Mars",
+  "main": "App.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/me-nabinsingh/Mars-rover.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/me-nabinsingh/Mars-rover/issues"
+  },
+  "homepage": "https://github.com/me-nabinsingh/Mars-rover#readme",
+  "devDependencies": {
+    "jasmine-spec-reporter": "^4.2.1"
+  }
+}
